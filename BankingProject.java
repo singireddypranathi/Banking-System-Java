@@ -12,7 +12,7 @@ public class BankingProject {
         Connection con = DriverManager.getConnection(
             "jdbc:mysql://localhost:3306/customers",
             "root",
-            "Yashvi@pranathi28"
+            "abc123"
         );
 
         System.out.println("Connected to database successfully!");
